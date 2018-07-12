@@ -26,3 +26,8 @@ a:hover {
 a:active {
     text-decoration: underline;
 }
+
+#about {
+	color: magenta;
+	text-decoration: none;
+}
